@@ -1,8 +1,4 @@
-# REORGANISE
-
-test
-
-*Stories of workers fighting back in new ways*
+![book illustration](/assets/book illustration.svg)
 
 A new book to be published in 2022
 
