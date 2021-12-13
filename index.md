@@ -1,4 +1,4 @@
-**In only a decade the labour market has changed beyond all recognition, from zero-hour contracts to platform monopolies, meanwhile union memberships are at historic lows. How are workers fighting back?**
+**In only a decade the labour market has changed beyond all recognition - from zero-hour contracts to platform monopolies - meanwhile union memberships are at historic lows. How are workers fighting back?**
 
 From doctors disillusioned with the BMA to crowdworkers organising for the first time, from a VC-backed company building trade union software to the reform of incumbent national labour organisations, WSJ journalist [Lucy Harley-McKeown](https://twitter.com/lhm1) takes us on a journey to discover how workers are organising in the 21st century.
 
