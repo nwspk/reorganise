@@ -1,5 +1,5 @@
-theme: jekyll-theme-cayman
-title: REORGANISE
+# theme: jekyll-theme-cayman
+baseurl: "/reorganise"
+title: RE-ORGANISE
 description: "“The most relevant book of 2022” - Someone"
-github:
-  is_project_page: false
+# github:  is_project_page: false
