@@ -59,11 +59,13 @@
 .top img{
 	margin: auto;
 	max-width: 100%;
+	z-index: 2;
+	position: relative;
 }
 
 .bottom{
 	/*background-color: blue;*/	
-	padding-bottom: 10em;
+	padding-bottom: 20em;
 
 }
 
@@ -135,3 +137,11 @@ input[type=text]{
 	background-color: #feefeb;
 	width: 100%;
 }
+
+@media(max-width: 800px){
+
+	.nav{
+		position: inherit;	
+	}
+
+	}
