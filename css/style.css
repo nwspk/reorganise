@@ -96,13 +96,21 @@ p{
 input[type=submit]{
 	background-color: #f27152;
 	color: white;
+	pader-radius: 3px;
+	margin-top: 1em;
+	font-size: 1.1em;
+	font-family: lato;
+  	width: 100%;
+  	max-width: 270px;
 	padding: 1em;
 	border: none;
-	border-radius: 3px;
-	margin-top: 1em;
+	padding: 0.5em;
+	border: none;
 }
 
 input[type=text]{
-	padding: 0.5em;
-	margin-top: 1em;
+	font-size: 1.1em;
+  	max-width: 250px;
+	font-family: lato;
+	color: #534d4c;
 }
