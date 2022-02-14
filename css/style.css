@@ -47,7 +47,7 @@
 /*---------------------------end reset------------------------*/
 
 .top{
-	background-color: #f27152;
+	background-color: #f48f6e;
 	text-align: center;
 }
 
@@ -62,9 +62,11 @@
 }
 
 .bottom{
-	/*background-color: blue;*/
-	
-	
+	/*background-color: blue;*/	
+}
+
+.nav{
+	display: flex;
 }
 
 .bottom-content{
@@ -107,6 +109,17 @@ input[type=submit]{
 	padding: 0.5em;
 	border: none;
 }
+
+input[type=submit]:hover{
+	background-color: #d55435;
+	cursor: pointer;
+}
+
+input[type=submit]:hover{
+	background-color: #d55435;
+	cursor: pointer;
+}
+
 
 input[type=text]{
 	font-size: 1.1em;
