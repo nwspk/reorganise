@@ -134,8 +134,11 @@ input[type=text]{
 	color: #534d4c;
 	padding: 0.5em;
 	border: none;
-	background-color: #feefeb;
+	background-color: #ffefec;
 	width: 100%;
+	border-radius: 100px;
+	padding-left: 1em;
+	padding-right: 1em;
 }
 
 @media(max-width: 800px){
@@ -143,5 +146,7 @@ input[type=text]{
 	.nav{
 		position: inherit;	
 	}
+
+	
 
 	}
