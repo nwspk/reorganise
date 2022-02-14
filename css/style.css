@@ -52,7 +52,7 @@
 }
 
 .top-content{
-	padding: 1em;
+	/*padding: 1em;*/
 	margin: auto;
 }
 
@@ -63,10 +63,14 @@
 
 .bottom{
 	/*background-color: blue;*/	
+	padding-bottom: 10em;
+
 }
 
 .nav{
+	position: absolute;
 	display: flex;
+	padding: 1em;
 }
 
 .bottom-content{
@@ -98,7 +102,7 @@ p{
 input[type=submit]{
 	background-color: #f27152;
 	color: white;
-	pader-radius: 3px;
+	border-radius: 3px;
 	margin-top: 1em;
 	font-size: 1.1em;
 	font-family: lato;
@@ -126,4 +130,8 @@ input[type=text]{
   	max-width: 250px;
 	font-family: lato;
 	color: #534d4c;
+	padding: 0.5em;
+	border: none;
+	background-color: #feefeb;
+	width: 100%;
 }
