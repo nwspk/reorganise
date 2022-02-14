@@ -47,11 +47,26 @@
 /*---------------------------end reset------------------------*/
 
 .top{
-	background-color: green;
+	background-color: #f27152;
+	text-align: center;
+}
+
+.top img{
+	margin: auto;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	max-width: 100%;
 }
 
 .bottom{
 	background-color: blue;
+	
+	
+}
+
+.bottom-content{
+	padding: 1em;
+	max-width: 720px;
 }
 
 body{
@@ -61,9 +76,28 @@ body{
 h5{
 	font-size: 1.5em;
 	color: #f27152;
+	padding-top: 2em;
+	line-height: 1.4em;
+	letter-spacing: 0.01em;
 }
 
 p{
-	font-size: 1em;
+	font-size: 1.1em;
 	color: #534d4c;
+	padding-top: 1em;
+	line-height: 1.5em;
+}
+
+input [type=submit]{
+	background-color: #f27152;
+	color: white;
+	padding: 1em;
+	border: none;
+	border-radius: 3px;
+	margin-top: 1em;
+}
+
+input [type=text]{
+	padding: 0.5em;
+	margin-top: 1em;
 }
