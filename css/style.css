@@ -102,8 +102,9 @@ p{
 }
 
 .button-holder{
-	margin-top:1em;
-	margin-bottom:1em;
+	padding-top:2em;
+	padding-bottom:2em;
+	text-align:center;
 }
 
 .button{
@@ -119,6 +120,7 @@ p{
 	padding: 0.5em;
 	border: none;
 	margin:auto;
+	text-decoration:none;
 }
 
 .button:hover{
