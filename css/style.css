@@ -101,7 +101,13 @@ p{
 	line-height: 1.5em;
 }
 
+.button-holder{
+	margin-top:1em;
+	margin-bottom:1em;
+}
+
 .button{
+	text-align: center;
 	background-color: #f27152;
 	color: white;
 	border-radius: 3px;
@@ -112,6 +118,7 @@ p{
 	max-width: 270px;
 	padding: 0.5em;
 	border: none;
+	margin:auto;
 }
 
 .button:hover{
